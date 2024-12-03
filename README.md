@@ -46,17 +46,19 @@ jupyter notebook
       - thenlper/gte-large
 
     - Models
-      - SVM
+      - Support Vector Machine (SVM)  
       - Random Forest (RF)
       - Multi Layer Perceptron (MLP)
 
     - Turkish Product Reviews Dataset
-      - Model Arch.: DNN Model
+      - Class Type: Binary Class (2) 
+      - Models : 3 ML Algorithms
       - Preprocess & Modelling: GridSearch, KFold Cross Validation
       - Code: ProductReview_PreProcess&Embedding.ipynb & ProductReview_Modelling.ipynb
 
     - Turkish News Dataset
-      - Model Arch.: DNN Model
+      - Class Type: Multi Class (5) 
+      - Models: 3 ML Algorithms
       - Preprocess & Modelling: RandomSearch, KFold Cross Validation
       - Code: News_PreProcess&Embedding_v3.ipynb & News_Modelling-v2.ipynb
 
