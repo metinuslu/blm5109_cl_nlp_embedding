@@ -52,13 +52,13 @@ jupyter notebook
 
     - Turkish Product Reviews Dataset
       - Model Arch.: DNN Model
-      - Preprocess: Normalization
-      - Code: OptTechniqueswithImageData.ipynb  
+      - Preprocess & Modelling: GridSearch, KFold Cross Validation
+      - Code: ProductReview_PreProcess&Embedding.ipynb & ProductReview_Modelling.ipynb
 
     - Turkish News Dataset
       - Model Arch.: DNN Model
-      - Preprocess: Text Preprocess, Tokenizer and Padding
-      - Code: OptTechniqueswithTextData.ipynb
+      - Preprocess & Modelling: RandomSearch, KFold Cross Validation
+      - Code: News_PreProcess&Embedding_v3.ipynb & News_Modelling-v2.ipynb
 
 ## Contact
     - Ahmed Ugur - 23501027  
